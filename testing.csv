@@ -1,0 +1,2 @@
+no_of_dots,specialSymbol,lengthOfURL,suspiciousWords,prefixSuffix,countOfHttp,shorteningService,has_data_uri,check_ssl_certificate,fake_login_form,countPages,missingHyperlink,count_foreign_links,count_empty_links,count_error_links,count_redirection_links,has_foreign_css,check_favicon,google_index,httpDomain
+0,0,0,0,0,0,0,0,0,0,47,0,1,0,0,1,0,1,0,0

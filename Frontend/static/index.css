@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    height: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: gray;
+    padding: 2rem;
+}
+
+.headline {
+    padding: 12rem 5rem;
+}
+
+.headline h1 {
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+.headline h4 {
+    color: gray;
+}
+
+.get-started {
+    padding: 1rem 0;
+}
+
+.url-container {
+    padding: 7rem;
+}
+
+.url-form-container {
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 2rem;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 1rem;
+}
+
+.url-form-container input {
+    background: none;
+    border-bottom: 1px solid;
+    border-radius: 0;
+}
+
+.url-form-container input:focus {
+    border: none;
+    background: none;
+    border-bottom: 1px solid;
+    box-shadow: none;
+}
+
+.url-submit-btn {
+    margin: 4rem 0 0;
+}
+
+.prediction-container {
+    margin-top: 5rem;
+}
+
+#legitimate {
+    color: rgb(6, 197, 133);
+}
+
+#phishing {
+    color: red;
+}
